@@ -1,8 +1,44 @@
 body {
     background:     #011627;
+    margin-left: 200px;
+    margin-right: 200px;
 }
+
+header {
+    margin-top: 100px;
+
+}
+
 
 h1{
     color: #2ec4b6;            
     font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+
+h2 {
+    color: #ff9f1c;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+p {
+    color: #fdfffc;
+    font-size: 18px;
+
+}
+
+ul {
+    color: #fdfffc;
+
+}
+
+li {
+    color: #fdfffc;
+
+} 
+
+img {
+    margin-bottom: 20px;
+
 }
