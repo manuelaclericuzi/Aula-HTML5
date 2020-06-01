@@ -38,7 +38,14 @@ li {
 
 } 
 
-img {
+.img_padrao {
     margin-bottom: 20px;
+    width: 300px;
+
+}
+
+.img_contato {
+    margin-bottom: 10px;
+    width: 100px;
 
 }
